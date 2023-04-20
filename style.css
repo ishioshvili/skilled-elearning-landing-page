@@ -50,7 +50,6 @@ table {
 
 
 body {
-    font-family: 'Plus Jakarta Sans', sans-serif;
     background-image: linear-gradient(#FFFFFF, #F0F1FF);
     display: flex;
     justify-content: center;
@@ -79,6 +78,7 @@ h2 {
     justify-content: center;
     display: flex;
     color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 700px;
     font-size: 16px;
 }
@@ -126,6 +126,7 @@ h2 {
 
 
 h1 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 800;
     font-size: 40px;
     color: #13183F;
@@ -136,6 +137,7 @@ h1 {
 }
 
 p {
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
@@ -169,6 +171,7 @@ p {
 
 h3 {
     color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 800;
     font-size: 24px;
     line-height: 32px;
@@ -192,6 +195,7 @@ section {
 }
 
 h4 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 800;
     font-size: 20px;
     margin-left: 28px;
@@ -207,6 +211,7 @@ h4 {
 
 h5 {
     color: #F74780;
+    font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 700;
     font-size: 18px;
     padding-top: 24px;
