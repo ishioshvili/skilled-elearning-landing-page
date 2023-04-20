@@ -333,6 +333,7 @@ footer {
     h1 {
         width: 457px;
         font-size: 56px;
+	margin-bottom: 50px;
     }
 
     .main-text {
